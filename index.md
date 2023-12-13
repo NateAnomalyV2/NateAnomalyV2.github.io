@@ -2,7 +2,7 @@
 
 I am a computer science student at SCUF and I expect to graduate in 2027.
 
-## Favorite SPSC 120L Labs
+## Favorite CPSC 120L Labs
 * Lab 8, part 1 & 2
 
   This lab was the first and was challenging because we worked on for-loops for the first time. It was enjoyable to learn how to do that for future labs. My partner and I worked together to make the perfect sandwich by following the steps to make the program run, and the result was “A PROTEIN sandwich on BREAD with CONDIMENT.” 
