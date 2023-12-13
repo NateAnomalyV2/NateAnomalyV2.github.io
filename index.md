@@ -1,6 +1,6 @@
 # NateAnomalyV2.github.io
 
-I am a computer science student at SCUF and I expect to graduate in 2027.
+I am a computer science student at CSUF and I expect to graduate in 2027.
 
 ## Favorite CPSC 120L Labs
 * Lab 8, part 1 & 2
